@@ -18,5 +18,22 @@ I enjoy working with data, building simple systems, and learning how technology 
 - 📊 **Analisis Pendapatan Driver Online — Juli 2026**
   Personal data analysis project using daily income data from online driving activities.
 
+### Tools & Technologies
+
+#### Data Analysis
+- 📊 Microsoft Excel
+- 🗄️ SQL
+
+#### Web Development
+- 🐘 PHP
+- 🌐 Laravel
+- 🛢️ MySQL
+- 🎨 Tailwind CSS
+- ⚡ Vite
+
+#### Tools
+- 🔧 Git
+- 🐙 GitHub
+
 - 🚗 **AutoExpert**
   Web-based decision support system for vehicle maintenance fund allocation using Forward Chaining.
