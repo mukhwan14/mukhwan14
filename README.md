@@ -35,5 +35,28 @@ I enjoy working with data, building simple systems, and learning how technology 
 - 🔧 Git
 - 🐙 GitHub
 
+### 📌 Project Focus
+
+My current projects focus on applying technology to practical problems through data analysis and software development.
+
+| Project | Focus | Technologies |
+|---------|-------|--------------|
+| **Analisis Pendapatan Driver Online — Juli 2026** | Data analysis of daily income | Microsoft Excel |
+| **AutoExpert** | Decision support system for vehicle maintenance fund allocation | Laravel, PHP, MySQL, Forward Chaining |
+
+### 🎯 Current Goals
+
+- Build a stronger foundation in **Data Analysis**.
+- Improve my skills in **Excel and SQL**.
+- Learn **Python** for data analysis.
+- Build practical projects to strengthen my portfolio.
+- Continuously improve my understanding of software development and data-driven problem solving.
+
+### 📈 Learning Journey
+
+I'm currently building my portfolio through practical projects while continuously improving my technical skills.
+
+> Learning by building, analyzing, and improving.
+
 - 🚗 **AutoExpert**
   Web-based decision support system for vehicle maintenance fund allocation using Forward Chaining.
