@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Muhammad Ikhwan 👋
 
-<!--
-**mukhwan14/mukhwan14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Informatics graduate who is currently developing my skills in **Data Analysis** and **Web Development**.
 
-Here are some ideas to get you started:
+I enjoy working with data, building simple systems, and learning how technology can be used to solve practical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+
+- 📊 Data Analysis
+- 📗 Microsoft Excel
+- 🗄️ SQL
+- 🐍 Python
+- 🌐 Web Development
+- 🔧 Git & GitHub
+
+### Featured Projects
+
+- 📊 **Analisis Pendapatan Driver Online — Juli 2026**
+  Personal data analysis project using daily income data from online driving activities.
+
+- 🚗 **AutoExpert**
+  Web-based decision support system for vehicle maintenance fund allocation using Forward Chaining.
